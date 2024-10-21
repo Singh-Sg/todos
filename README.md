@@ -1,4 +1,4 @@
-# Todo 
+# Todo Title: Build a Simple To-Do List RESTful API in Python
 
 ## Setup
 
@@ -6,7 +6,7 @@
 
     ```bash
     git clone https://github.com/Singh-Sg/todos.git
-    cd todo_list_api
+    cd todos
     ```
   
 2. Create and Activate a Virtual Environment (Linux):
